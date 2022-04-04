@@ -1,0 +1,6 @@
+project_id = "project_name"
+credentials_file_path = "./secrets/secret.json"
+service_account = "service_account@project_name..."
+region = "europe-west3"
+main_zone = "europe-west3-b"
+cluster_node_zones = ["europe-west3-b"]
